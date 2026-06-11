@@ -1,0 +1,60 @@
+export const THEMES = {
+  light: {
+    primary: '#4F46E5',
+    primaryDark: '#3730A3',
+    primaryLight: '#EEF2FF',
+    accent: '#06B6D4',
+    accentLight: '#ECFEFF',
+    background: '#F9FAFB',
+    card: '#FFFFFF',
+    text: '#111827',
+    textSecondary: '#6B7280',
+    textMuted: '#9CA3AF',
+    border: '#E5E7EB',
+    error: '#EF4444',
+    success: '#10B981',
+    warning: '#F59E0B',
+    input: '#FFFFFF',
+    tabBar: '#FFFFFF',
+    gradientStart: '#4F46E5',
+    gradientEnd: '#06B6D4',
+  },
+  dark: {
+    primary: '#818CF8',
+    primaryDark: '#6366F1',
+    primaryLight: '#312E81',
+    accent: '#22D3EE',
+    accentLight: '#164E63',
+    background: '#0F172A',
+    card: '#1E293B',
+    text: '#F9FAFB',
+    textSecondary: '#94A3B8',
+    textMuted: '#64748B',
+    border: '#334155',
+    error: '#F87171',
+    success: '#34D399',
+    warning: '#FBBF24',
+    input: '#1E293B',
+    tabBar: '#1E293B',
+    gradientStart: '#4F46E5',
+    gradientEnd: '#06B6D4',
+  },
+};
+
+export const RADIUS = {
+  sm: 8,
+  md: 12,
+  lg: 16,
+  xl: 24,
+  full: 999,
+};
+
+export const SHADOW = {
+  card: {
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.06,
+    shadowRadius: 8,
+    elevation: 3,
+  },
+};
