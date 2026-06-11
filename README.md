@@ -79,3 +79,5 @@ Reanimated: skeleton shimmer, hero fade-in, form adim gecisi, tab badge, like an
 - [x] feature/community-posts
 
 - [x] feature/market-listings
+
+- [x] feature/listing-create
