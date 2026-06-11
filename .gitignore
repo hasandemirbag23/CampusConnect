@@ -1,0 +1,25 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.env
+.env.local
+google-services.json
+GoogleService-Info.plist
+**/google-services.json
+**/GoogleService-Info.plist
+*.pem
+.DS_Store
+*.log
+firestore-debug.log
+.firebase/
+functions/node_modules/
+emulator-data/
+# Native build artifacts
+android/app/build/
+android/build/
+android/.gradle/
+android/app/.cxx/
+ios/build/
+ios/Pods/
+ios/DerivedData/
