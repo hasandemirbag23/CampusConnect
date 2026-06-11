@@ -61,3 +61,5 @@ Reanimated: skeleton shimmer, hero fade-in, form adim gecisi, tab badge, like an
 ## Market
 - Listing CRUD ve Firestore pagination
 - Fiyat filtresi ve tags alani
+
+- [x] feature/firebase-foundation
