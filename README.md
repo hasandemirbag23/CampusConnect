@@ -71,3 +71,5 @@ Reanimated: skeleton shimmer, hero fade-in, form adim gecisi, tab badge, like an
 - [x] feature/theme-navigation
 
 - [x] feature/discover-events
+
+- [x] feature/event-detail
