@@ -63,3 +63,5 @@ Reanimated: skeleton shimmer, hero fade-in, form adim gecisi, tab badge, like an
 - Fiyat filtresi ve tags alani
 
 - [x] feature/firebase-foundation
+
+- [x] feature/auth-core
