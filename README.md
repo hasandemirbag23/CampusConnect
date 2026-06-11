@@ -87,3 +87,5 @@ Reanimated: skeleton shimmer, hero fade-in, form adim gecisi, tab badge, like an
 - [x] feature/chat-realtime
 
 - [x] feature/cloud-functions
+
+- [x] fix/firestore-rules
